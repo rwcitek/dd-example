@@ -1,5 +1,5 @@
 ## About me
-- 
+- I am teaching about GitHub
 
 ## How to Reach Me
 - GitHub: https://github.com/rwcitek
